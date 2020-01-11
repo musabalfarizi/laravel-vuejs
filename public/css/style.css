@@ -1,0 +1,44 @@
+body {
+    font-family: "Helvetica", sans-serif;
+    background: #710a0a;
+    background: -webkit-linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);
+    background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #e7e7e7);
+}
+
+.navbar-light .navbar-brand, .navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+    color: rgb(710a0a, 255, 255);
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(710a0a, 710a0a, 710a0a);
+}
+.navbar-laravel {
+    background: #0f0c29;
+    background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);
+    background: linear-gradient(to right, #678db3, #7b98b5, #678db3);
+    -webkit-box-shadow: 0 2px 4px rgba(0,0,0,.04);
+    box-shadow: 0 2px 4px rgba(0,0,0,.04);
+}
+.alert-success {
+    color: #ffffff;
+    background-color: #1b173d;
+    border-color: #171337;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: rgb(200, 198, 186);
+}
+#jumbotron_index {
+    color:#272323;  
+    background: #d6dee3; 
+    box-shadow: 0 5px 10px #888888;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+#jumbotron_index #x{
+    color: # #272323;
+}
+.btn-warning {
+    color: #ffffff;
+    background-color: #ffc107;
+    border-color: #ffc107;
+}
